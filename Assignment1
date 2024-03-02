@@ -1,0 +1,11 @@
+2302031030064 assignment 1
+Here are the steps to create a git repository named as my enrollment num. and add two folders names assignmenti and assignment.
+Step1= open your terminal or command prompt.
+Step2=navigate to the directory where you want to create the repository using the cd command.
+Step3=run the command git init " 2302031030064" to create a new git repository named "2302031030064"
+Step4=navigate into the newly created repository using cd 2302031030064
+Step5=run mkir assignmenti to create the assignmenti folder
+Step=run mkdir assignment2 to create the assignment folder
+Step7=now your repository should have two folder names assignmenti and assignment2
+Step8=you can add files to these folders and commit your changes using git commands like git add and git commit -m initial commit
+That's it you are creates a git repository named 2302031030126 with two folders named assignmenti and assignment2.
